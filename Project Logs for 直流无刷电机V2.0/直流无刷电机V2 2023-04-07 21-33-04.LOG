@@ -1,0 +1,23 @@
+Added Component: Designator=C6(CAP-SMD_L3.5-W2.8-R-RD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20181017/C123253_E44F021CD80332E438026884F943F9F2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "CA45-B010K476T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Equivalent Series Resistance(ESR)"; Value = "1Ω 100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "47uF ±10% 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "湘怡中元/湘江"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "CA45-B010K476T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55℃~+125℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "CASE-B_3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C123253"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "CA45-B010K476T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C6-1
+Added Pin To Net: NetName=5VGND Pin=C6-2
+Added Member To Class: ClassName=直流无刷电机V2.0 Member=Component C6 CA45-B010K476T
+Added Room: Name=直流无刷电机V2.0

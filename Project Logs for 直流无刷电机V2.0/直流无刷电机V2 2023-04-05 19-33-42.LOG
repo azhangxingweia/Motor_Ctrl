@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+5V Pin=R8-2
+Removed Pin From Net: NetName=+5V Pin=R9-2
+Added Pin To Net: NetName=5V Pin=R8-2
+Added Pin To Net: NetName=5V Pin=R9-2
+Added Room: Name=直流无刷电机V2.0

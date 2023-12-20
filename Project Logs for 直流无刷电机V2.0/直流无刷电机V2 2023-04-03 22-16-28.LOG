@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=24VGND Pin=R1-1
+Removed Pin From Net: NetName=+24V Pin=R1-2
+Removed Pin From Net: NetName=NetR14_1 Pin=R14-1
+Removed Pin From Net: NetName=24VGND Pin=R14-2
+Removed Pin From Net: NetName=NetR14_1 Pin=U7-2
+Removed Pin From Net: NetName=M_PWM Pin=U7-3
+Removed Pin From Net: NetName=24VGND Pin=U7-5
+Removed Pin From Net: NetName=OUT_M_PWM Pin=U7-6
+Removed Member From Class: ClassName=直流无刷电机V2.0 Member=R1
+Removed Member From Class: ClassName=直流无刷电机V2.0 Member=R14
+Removed Member From Class: ClassName=直流无刷电机V2.0 Member=U7
+Added Component: Designator=R?(R0805)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20190821/C413712_16C6B59B4DECA51D4907C6F5D5BAEAA8.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ERJPB6B1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1KΩ(1001) ±0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PANASONIC(松下)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ERJPB6B1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "ERJPB6B1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C413712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ERJPB6B1001V"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOP-4_L3.9-W4.4-P2.54-LS7.0-BR)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20190506/C385054_FAE23A869392FC5336AA394252D11801.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "CYTLP181(GB-TP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "CYTLP181(GB-TP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OCIC(卓睿)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "CYTLP181(GB-TP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CYTLP181(GB-TP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output-Current(Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output-Voltage(Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOP-4_2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C385054"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "CYTLP181(GB-TP2)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage-Isolation"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage-Supply"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR14_1 Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-2
+Added Pin To Net: NetName=NetR14_1 Pin=U?-1
+Added Pin To Net: NetName=M_PWM Pin=U?-2
+Added Pin To Net: NetName=24VGND Pin=U?-3
+Added Pin To Net: NetName=OUT_M_PWM Pin=U?-4
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR?_1
+Added Member To Class: ClassName=直流无刷电机V2.0 Member=Component R? ERJPB6B1001V
+Added Member To Class: ClassName=直流无刷电机V2.0 Member=Component U? CYTLP181(GB-TP)
+Added Room: Name=直流无刷电机V2.0

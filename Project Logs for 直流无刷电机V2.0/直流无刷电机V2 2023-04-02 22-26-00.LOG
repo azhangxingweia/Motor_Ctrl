@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=5VGND Pin=C2-1
+Added Pin To Net: NetName=5VGND Pin=C4-1
+Added Pin To Net: NetName=5VGND Pin=U2-3
+Added Pin To Net: NetName=5VGND Pin=U6-3
+Added Member To Class: ClassName=直流无刷电机V2.0 Member=Component U4 B2405S-1W_C3345180
+Added Room: Name=直流无刷电机V2.0

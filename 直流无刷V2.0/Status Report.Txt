@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [直流无刷电机V2.0.PrjPcb]
+   Generated File[直流无刷电机V2.0.TXT]
+   Generated File[直流无刷电机V2.0.LDP]
+   Generated File[直流无刷电机V2.0.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 21:44:56 On 2023-04-07
